@@ -84,7 +84,7 @@
                     viewBox="0 0 1024 1024"
                     width="100%"
                     height="100%"
-                    style="width: 30; fill: #ffdd40"
+                    style="width: 30px; fill: #ffdd40"
                   >
                     <title>user</title>
                     <path
